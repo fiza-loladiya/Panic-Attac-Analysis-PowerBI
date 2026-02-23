@@ -60,6 +60,7 @@ This page compares averages by Age Group (e.g., Adolescent vs Adult) across trig
 - Designing slicers was important to make insights easy to explore
 
 ## 🔧 Workflow (What I Did)
+
 1. Connected **Snowflake** to **Power BI**
 2. Cleaned & transformed the dataset in **Power Query**
    - Fixed data types
